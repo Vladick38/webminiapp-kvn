@@ -1,6 +1,7 @@
 .App {
   text-align: center;
 }
+<<<<<<< HEAD
 :root {
   --bg-color: #1e1e3f; /* deep indigo */
   --text-color: #e0e0ff; /* light blueish */
@@ -9,6 +10,8 @@
   --button-color: #1e1e3f;
 }
 
+=======
+>>>>>>> 07fe572209f3eaf6d8f98f340e610042309454bf
 
 .App-logo {
   height: 40vmin;
