@@ -11,7 +11,7 @@
 
 .cards-container {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); /* three per row when space allows */
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); /* три колонки */
   gap: 1.5rem;
   margin-top: 1.5rem;
 }
